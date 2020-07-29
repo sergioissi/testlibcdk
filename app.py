@@ -2,7 +2,7 @@
 
 from aws_cdk import core
 
-from testlibcdk.testlibcdk_stack import TestlibcdkStack
+from testlibcdk.testlibcdkstack import TestlibcdkStack
 
 
 app = core.App()
